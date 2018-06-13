@@ -1,0 +1,8 @@
+[submodule "ZombieBase"]
+	path = ZombieBase
+	url = https://github.com/shejian/ZombieBase.git
+    branch = develop
+[submodule "develop"]
+	path = develop
+	url = https://github.com/shejian/eathmodule
+	branch = develop
